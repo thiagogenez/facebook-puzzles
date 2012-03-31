@@ -1,1 +1,1 @@
-This project is about facebook
+This project is about facebook puzzles
